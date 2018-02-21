@@ -10,3 +10,6 @@ A document to test [svg examples](https://github.com/potherca-blog/StackOverflow
 
 ## HTML img
 <img src="./Image/Banner.svg">
+
+## HTML img (Resize)
+<img src="./Image/Banner.svg" width="100%" height="140">
